@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DBConnect {
 
-    private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=LeaveManagement;encrypt=false;trustServerCertificate=true";
+    private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=UserControl;encrypt=false;trustServerCertificate=true";
     private static final String USER = "sa";
     private static final String PASSWORD = "123";
 
